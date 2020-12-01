@@ -10,4 +10,6 @@ p5 learning
 [2048](https://xdguy.github.io/2048/2048js/)
 [2048 README](https://xdguy.github.io/2048/)
 
+[output single and odd number separately for my printer](https://xdguy.github.io/web/printer_single_odd/)
+
 hello web hook?
